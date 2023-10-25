@@ -1,0 +1,11 @@
+This project was created by Lior Haleli and Eliana Petel as part of the Hebrew University introductory course to Computer Science.
+It was built exclusively in python using the Tkinter GUI module.
+
+To run the game, execute the boggle.py file or type python3 boggle.py in the terminal.
+
+Boggle is a word-making game that requires exceptional vocabulary. The player will have 3 minutes to create as many words as possible from the few letters on the board.The longer words are, the higher the score will be!
+
+If the player gets stuck, he can press the "reveal word" button to display one valid word on the board.
+Or, simply click on the "Word length" button in order to find a word of specific length.
+
+Let the game start!
